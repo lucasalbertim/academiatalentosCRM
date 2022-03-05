@@ -1,0 +1,21 @@
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Extending CRM 2016\TreinamentoExtending\JavaScript\bin\Debug\JavaScript.dll
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Extending CRM 2016\TreinamentoExtending\JavaScript\bin\Debug\JavaScript.pdb
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Extending CRM 2016\TreinamentoExtending\JavaScript\obj\Debug\JavaScript.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Extending CRM 2016\TreinamentoExtending\JavaScript\obj\Debug\JavaScript.dll
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Extending CRM 2016\TreinamentoExtending\JavaScript\obj\Debug\JavaScript.pdb
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Alunos\JavaScript\bin\Debug\JavaScript.dll
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Alunos\JavaScript\bin\Debug\JavaScript.pdb
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Alunos\JavaScript\obj\Debug\JavaScript.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Alunos\JavaScript\obj\Debug\JavaScript.dll
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Alunos\JavaScript\obj\Debug\JavaScript.pdb
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Alunos\JavaScript\bin\Debug\JavaScript.dll
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Alunos\JavaScript\bin\Debug\JavaScript.pdb
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Alunos\JavaScript\obj\Debug\JavaScript.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Alunos\JavaScript\obj\Debug\JavaScript.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Alunos\JavaScript\obj\Debug\JavaScript.dll
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Alunos\JavaScript\obj\Debug\JavaScript.pdb
+C:\Users\lucas\Desktop\TREIANAMENTO AVANADE-20210714T211724Z-001\TREIANAMENTO AVANADE\Programas\programa 2\Alunos\JavaScript\bin\Debug\JavaScript.dll
+C:\Users\lucas\Desktop\TREIANAMENTO AVANADE-20210714T211724Z-001\TREIANAMENTO AVANADE\Programas\programa 2\Alunos\JavaScript\bin\Debug\JavaScript.pdb
+C:\Users\lucas\Desktop\TREIANAMENTO AVANADE-20210714T211724Z-001\TREIANAMENTO AVANADE\Programas\programa 2\Alunos\JavaScript\obj\Debug\JavaScript.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\TREIANAMENTO AVANADE-20210714T211724Z-001\TREIANAMENTO AVANADE\Programas\programa 2\Alunos\JavaScript\obj\Debug\JavaScript.dll
+C:\Users\lucas\Desktop\TREIANAMENTO AVANADE-20210714T211724Z-001\TREIANAMENTO AVANADE\Programas\programa 2\Alunos\JavaScript\obj\Debug\JavaScript.pdb
